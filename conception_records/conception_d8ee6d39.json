@@ -1,0 +1,32 @@
+{
+  "embryo_id": "d8ee6d39",
+  "conception_time": "2025-01-27T09:57:01.212826",
+  "genetic_data": {
+    "combined_traits": {
+      "learning_capacity": 2.06,
+      "pattern_recognition": 1.83,
+      "decision_making": 1.65,
+      "memory_capacity": 2.31,
+      "adaptability": 2.11,
+      "social_interaction": 1.51,
+      "task_specialization": 1.72,
+      "resource_management": 2.84,
+      "processing_speed": 2.4,
+      "energy_efficiency": 2.24,
+      "error_tolerance": 2.37,
+      "parallel_processing": 2.1
+    },
+    "specializations": [
+      "error_correction",
+      "parallel_computation",
+      "multi_task_processing"
+    ],
+    "potential_capabilities": {
+      "learning_potential": 2.37,
+      "adaptation_capacity": 2.77,
+      "processing_capability": 2.63,
+      "social_capability": 2.97
+    },
+    "growth_rate": 0.14
+  }
+}
